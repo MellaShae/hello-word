@@ -1,2 +1,5 @@
 # hello-word
-another repository
+
+hi there!
+
+Mella here! I love to sleep LOL! :)
